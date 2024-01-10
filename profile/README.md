@@ -1,3 +1,3 @@
-## Welcome to Hakdog Utilities 💖
-## Hakdog Utilities [Tebex](https://hakdog-utilities.tebex.io/)
-## Hakdog Utilities [Script Docs](https://hakdog-utilities.gitbook.io/documentation/)
+## Welcome to C-Scripts 💖
+## C-Scripts [Tebex](https://collective-scripts.tebex.io)
+## C-Scripts [Script Docs](https://docs.c-scripts.shop/paid-scripts)
